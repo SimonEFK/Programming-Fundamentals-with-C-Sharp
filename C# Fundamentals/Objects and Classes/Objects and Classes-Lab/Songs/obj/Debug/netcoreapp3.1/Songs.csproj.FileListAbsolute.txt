@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

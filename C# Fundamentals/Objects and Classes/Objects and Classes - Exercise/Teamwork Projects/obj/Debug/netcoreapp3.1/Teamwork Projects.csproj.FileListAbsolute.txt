@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.exe
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.deps.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.dev.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfo.cs
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache

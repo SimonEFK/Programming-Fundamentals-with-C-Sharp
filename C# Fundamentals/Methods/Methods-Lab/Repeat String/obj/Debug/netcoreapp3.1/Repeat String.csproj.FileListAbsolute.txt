@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.exe
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.deps.json
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.json
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.runtimeconfig.dev.json
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.dll
+C:\Users\simon\source\repos\MethodsLab\Repeat String\bin\Debug\netcoreapp3.1\Repeat String.pdb
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.AssemblyInfo.cs
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.dll
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.pdb
+C:\Users\simon\source\repos\MethodsLab\Repeat String\obj\Debug\netcoreapp3.1\Repeat String.genruntimeconfig.cache

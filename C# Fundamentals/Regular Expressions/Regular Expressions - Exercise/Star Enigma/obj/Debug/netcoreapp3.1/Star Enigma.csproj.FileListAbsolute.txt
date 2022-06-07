@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.exe
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.deps.json
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.json
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.dev.json
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\simon\source\repos\RegEx\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfo.cs
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\simon\source\repos\RegEx\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.genruntimeconfig.cache

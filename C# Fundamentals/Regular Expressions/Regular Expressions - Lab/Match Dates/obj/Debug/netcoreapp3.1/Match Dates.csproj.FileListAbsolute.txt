@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.exe
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.deps.json
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.json
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.dev.json
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\simon\source\repos\RegEx\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfo.cs
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\simon\source\repos\RegEx\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.genruntimeconfig.cache

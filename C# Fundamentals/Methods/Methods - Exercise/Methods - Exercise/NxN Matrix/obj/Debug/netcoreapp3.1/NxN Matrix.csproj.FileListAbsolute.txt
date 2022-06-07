@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.exe
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.deps.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfo.cs
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.exe
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.deps.json
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.json
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.dev.json
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\simon\source\repos\MethodsLab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfo.cs
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\simon\source\repos\MethodsLab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.genruntimeconfig.cache

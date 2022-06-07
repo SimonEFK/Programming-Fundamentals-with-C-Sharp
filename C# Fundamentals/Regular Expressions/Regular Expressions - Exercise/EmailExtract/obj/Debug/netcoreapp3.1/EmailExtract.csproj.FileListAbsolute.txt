@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.exe
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.deps.json
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.runtimeconfig.json
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.runtimeconfig.dev.json
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.dll
+C:\Users\simon\source\repos\RegEx\EmailExtract\bin\Debug\netcoreapp3.1\EmailExtract.pdb
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.AssemblyInfo.cs
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.dll
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.pdb
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.genruntimeconfig.cache
+C:\Users\simon\source\repos\RegEx\EmailExtract\obj\Debug\netcoreapp3.1\EmailExtract.csprojAssemblyReference.cache

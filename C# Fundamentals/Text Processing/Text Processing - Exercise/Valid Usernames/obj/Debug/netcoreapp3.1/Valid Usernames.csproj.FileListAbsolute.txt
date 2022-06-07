@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.exe
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.deps.json
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.json
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.dll
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.pdb
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfo.cs
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.dll
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.pdb
+C:\Users\simon\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.genruntimeconfig.cache

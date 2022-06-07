@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.exe
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.deps.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.runtimeconfig.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.dll
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.pdb
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.AssemblyInfo.cs
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.dll
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.pdb
+C:\Users\simon\source\repos\Methods - Exercise\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.genruntimeconfig.cache

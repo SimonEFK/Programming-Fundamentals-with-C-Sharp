@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes - Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

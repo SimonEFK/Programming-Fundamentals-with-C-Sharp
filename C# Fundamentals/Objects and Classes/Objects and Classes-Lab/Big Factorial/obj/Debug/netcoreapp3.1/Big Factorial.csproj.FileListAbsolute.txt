@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.exe
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.deps.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.dev.json
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfo.cs
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\simon\source\repos\C# Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.genruntimeconfig.cache
