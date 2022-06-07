@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.exe
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.deps.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.dll
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.pdb
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfo.cs
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.dll
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.pdb
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.genruntimeconfig.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csprojAssemblyReference.cache

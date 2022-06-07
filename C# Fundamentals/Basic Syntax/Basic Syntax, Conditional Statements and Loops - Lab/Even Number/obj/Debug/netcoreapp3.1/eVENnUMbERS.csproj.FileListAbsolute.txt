@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.exe
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.deps.json
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.runtimeconfig.json
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.runtimeconfig.dev.json
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.dll
+C:\Users\simon\source\repos\eVENnUMbERS\bin\Debug\netcoreapp3.1\eVENnUMbERS.pdb
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.AssemblyInfo.cs
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.dll
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.pdb
+C:\Users\simon\source\repos\eVENnUMbERS\obj\Debug\netcoreapp3.1\eVENnUMbERS.genruntimeconfig.cache

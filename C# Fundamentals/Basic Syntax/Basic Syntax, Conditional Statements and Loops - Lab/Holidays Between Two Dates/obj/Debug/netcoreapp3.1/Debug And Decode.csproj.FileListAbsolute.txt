@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.exe
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.deps.json
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.runtimeconfig.json
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.dll
+C:\Users\simon\source\repos\Debug And Decode\bin\Debug\netcoreapp3.1\Debug And Decode.pdb
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.AssemblyInfo.cs
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.dll
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.pdb
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.genruntimeconfig.cache
+C:\Users\simon\source\repos\Debug And Decode\obj\Debug\netcoreapp3.1\Debug And Decode.csprojAssemblyReference.cache

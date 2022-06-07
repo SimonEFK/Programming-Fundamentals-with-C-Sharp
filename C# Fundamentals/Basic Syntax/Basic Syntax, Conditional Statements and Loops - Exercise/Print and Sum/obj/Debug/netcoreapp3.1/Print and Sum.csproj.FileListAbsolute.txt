@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.exe
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.deps.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.runtimeconfig.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.dll
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.pdb
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.AssemblyInfo.cs
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.dll
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.pdb
+C:\Users\simon\source\repos\Exercise Intro and Basic Synta\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.genruntimeconfig.cache
