@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.exe
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.deps.json
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.json
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.dev.json
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.dll
+C:\Users\simon\source\repos\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.pdb
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfo.cs
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.dll
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.pdb
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.genruntimeconfig.cache
+C:\Users\simon\source\repos\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csprojAssemblyReference.cache
